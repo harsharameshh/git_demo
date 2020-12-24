@@ -1,1 +1,0 @@
-Working with files the Groovy way is easy.
